@@ -74,6 +74,8 @@
       ] },
       "BOLD": { "links": [ 
         { "url": "http://20.98.70.24:8090/api/submit/tx", "location": "US - West" }
+          "BOLD": { "links": [ 
+        { "url": "http://20.98.70.24:8090/api/submit/tx", "location": "US - West" }
       ] }
     }
   }
